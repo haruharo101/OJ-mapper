@@ -1,0 +1,13 @@
+oj: Codeup
+id: "1039"
+title: "[기초-출력변환] 정수 2개 입력받아 합 출력하기2(설명)"
+matches:
+  - oj: BOJ
+    id: "1000"
+    relation: same
+  - oj: Codeup
+    id: "1038"
+    relation: same
+  - oj: Jungol
+    id: "1000"
+    relation: same

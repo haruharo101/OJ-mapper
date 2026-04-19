@@ -1,0 +1,9 @@
+{
+  "BOJ": "https://www.acmicpc.net/problem/{id}",
+  "QOJ": "https://qoj.ac/problem/{id}",
+  "Jungol": "https://jungol.co.kr/problem/{id}",
+  "Codeup": "https://codeup.kr/problem.php?id={id}",
+  "AtCoder": "https://atcoder.jp/contests/{contest}/tasks/{task}",
+  "Codeforces": "https://codeforces.com/problemset/problem/{contest}/{index}",
+  "LeetCode": "https://leetcode.com/problems/{slug}/"
+}

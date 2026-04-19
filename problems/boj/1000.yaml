@@ -1,0 +1,13 @@
+oj: BOJ
+id: "1000"
+title: "A+B"
+matches:
+  - oj: Codeup
+    id: "1038"
+    relation: same
+  - oj: Codeup
+    id: "1039"
+    relation: same
+  - oj: Jungol
+    id: "1000"
+    relation: same

@@ -1,0 +1,13 @@
+oj: Jungol
+id: "1000"
+title: "두 정수 더하기 (A+B)"
+matches:
+  - oj: BOJ
+    id: "1000"
+    relation: same
+  - oj: Codeup
+    id: "1038"
+    relation: same
+  - oj: Codeup
+    id: "1039"
+    relation: same
