@@ -87,6 +87,8 @@ const inputPlaceholders = {
   LeetCode: "two-sum",
 };
 
+const repositoryUrl = "https://github.com/haruharo101/BOJ-mapper";
+
 function makeProblemKey(oj, id) {
   return `${oj}:${id.trim().toLowerCase()}`;
 }
@@ -294,6 +296,16 @@ export default function App() {
               Enter a base Online Judge and problem ID to search stored matches
               across other judges for the same or similar problem.
             </p>
+            <div className="hero-actions">
+              <a
+                className="repo-button"
+                href={repositoryUrl}
+                target="_blank"
+                rel="noreferrer noopener"
+              >
+                GitHub Repo
+              </a>
+            </div>
           </div>
 
           <form

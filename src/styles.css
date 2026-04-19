@@ -119,6 +119,43 @@ body::before {
   line-height: 1.6;
 }
 
+.hero-actions {
+  margin-top: 18px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.repo-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  padding: 0 14px;
+  border: 1px solid rgba(143, 226, 210, 0.2);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.04);
+  color: #c8f6ee;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition:
+    border-color 180ms ease,
+    background 180ms ease,
+    color 180ms ease,
+    transform 180ms ease,
+    box-shadow 180ms ease;
+}
+
+.repo-button:hover,
+.repo-button:focus-visible {
+  border-color: rgba(143, 226, 210, 0.42);
+  background: rgba(143, 226, 210, 0.12);
+  color: #e7fffb;
+  box-shadow: 0 0 0 4px rgba(75, 186, 165, 0.1);
+  transform: translateY(-1px);
+  outline: none;
+}
+
 .search-panel {
   margin-top: 36px;
   display: grid;
@@ -193,6 +230,12 @@ select {
   appearance: none;
   padding-right: 28px;
   cursor: pointer;
+  color-scheme: dark;
+}
+
+option {
+  color: #0f1719;
+  background: #eef5f4;
 }
 
 input::placeholder {
@@ -509,6 +552,10 @@ input::placeholder {
 
   .summary {
     font-size: 0.96rem;
+  }
+
+  .hero-actions {
+    justify-content: flex-start;
   }
 
   .result-link {
