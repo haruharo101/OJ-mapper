@@ -366,6 +366,7 @@ input::placeholder {
 .judge-pill {
   display: inline-flex;
   align-items: center;
+  gap: 8px;
   min-height: 34px;
   padding: 0 12px;
   border-radius: 999px;
@@ -400,6 +401,21 @@ input::placeholder {
   border-color: rgba(143, 226, 210, 0.45);
   background: rgba(143, 226, 210, 0.14);
   color: #a7efe2;
+}
+
+.judge-pill__count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 22px;
+  min-height: 22px;
+  padding: 0 6px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(241, 247, 246, 0.84);
+  font-size: 0.74rem;
+  font-weight: 700;
+  line-height: 1;
 }
 
 .results-panel {

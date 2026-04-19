@@ -4,6 +4,16 @@ const yamlFiles = import.meta.glob("../../problems/**/*.yaml", {
   import: "default",
 });
 
+const folderToOj = {
+  boj: "BOJ",
+  qoj: "QOJ",
+  jungol: "Jungol",
+  codeup: "Codeup",
+  atcoder: "AtCoder",
+  codeforces: "Codeforces",
+  leetcode: "LeetCode",
+};
+
 function stripQuotes(value) {
   const trimmed = value.trim();
 
@@ -181,5 +191,24 @@ function buildProblemIndex(records) {
 const parsedRecords = Object.values(yamlFiles)
   .map((rawText) => parseProblemFile(rawText))
   .filter(Boolean);
+
+export const problemCounts = Object.keys(yamlFiles).reduce((counts, filePath) => {
+  const match = filePath.match(/\.{2}\/\.{2}\/problems\/([^/]+)\//);
+
+  if (!match) {
+    return counts;
+  }
+
+  const folderName = match[1].toLowerCase();
+  const ojName = folderToOj[folderName];
+
+  if (!ojName) {
+    return counts;
+  }
+
+  counts[ojName] = (counts[ojName] ?? 0) + 1;
+
+  return counts;
+}, {});
 
 export const problemIndex = buildProblemIndex(parsedRecords);

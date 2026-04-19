@@ -1,6 +1,6 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import GraphBackground from "./components/GraphBackground";
-import { problemIndex } from "./data/problemIndex";
+import { problemCounts, problemIndex } from "./data/problemIndex";
 import linkTemplates from "./data/link_template.json";
 
 const onlineJudges = [
@@ -221,12 +221,47 @@ function validateProblemUrl(oj, value) {
 export default function App() {
   const [selectedJudge, setSelectedJudge] = useState("BOJ");
   const [problemId, setProblemId] = useState("");
+  const [animatedCounts, setAnimatedCounts] = useState(
+    Object.fromEntries(onlineJudges.map((judge) => [judge, 0])),
+  );
   const [searchState, setSearchState] = useState({
     status: "idle",
     query: null,
     entry: null,
     message: null,
   });
+
+  useEffect(() => {
+    const duration = 650;
+    const startedAt = performance.now();
+    let animationFrameId = 0;
+
+    function tick(now) {
+      const progress = Math.min((now - startedAt) / duration, 1);
+      const eased = 1 - (1 - progress) * (1 - progress);
+
+      setAnimatedCounts(
+        Object.fromEntries(
+          onlineJudges.map((judge) => [
+            judge,
+            Math.round((problemCounts[judge] ?? 0) * eased),
+          ]),
+        ),
+      );
+
+      if (progress < 1) {
+        animationFrameId = window.requestAnimationFrame(tick);
+      }
+    }
+
+    animationFrameId = window.requestAnimationFrame(tick);
+
+    return () => {
+      if (animationFrameId) {
+        window.cancelAnimationFrame(animationFrameId);
+      }
+    };
+  }, []);
 
   function handleSearch(event) {
     event.preventDefault();
@@ -387,19 +422,20 @@ export default function App() {
           ) : null}
 
         <div className="panel-footer" aria-label="Supported online judges">
-          <div className="judge-list">
-            {onlineJudges.map((judge) => (
-              <button
-                key={judge}
+            <div className="judge-list">
+              {onlineJudges.map((judge) => (
+                <button
+                  key={judge}
                   type="button"
                   className={`judge-pill${selectedJudge === judge ? " judge-pill--active" : ""}`}
                   onClick={() => setSelectedJudge(judge)}
                   aria-pressed={selectedJudge === judge}
                 >
-                {judge}
-              </button>
-            ))}
-          </div>
+                  <span>{judge}</span>
+                  <span className="judge-pill__count">{animatedCounts[judge] ?? 0}</span>
+                </button>
+              ))}
+            </div>
         </div>
 
         <section className="results-panel" aria-live="polite">
