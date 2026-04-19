@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4933"
+title: "햄버거 분배"
+matches:
+  - oj: Jungol
+    id: "4520"
+    relation: same
+  - oj: BOJ
+    id: "19941"
+    relation: same

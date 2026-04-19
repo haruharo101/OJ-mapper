@@ -1,0 +1,10 @@
+oj: BOJ
+id: "20194"
+title: "경계 로봇"
+matches:
+  - oj: Jungol
+    id: "4608"
+    relation: same
+  - oj: Codeup
+    id: "4944"
+    relation: same

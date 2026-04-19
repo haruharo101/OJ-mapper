@@ -1,0 +1,7 @@
+oj: Jungol
+id: "7021"
+title: "등교"
+matches:
+  - oj: BOJ
+    id: "31962"
+    relation: same

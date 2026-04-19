@@ -1,0 +1,10 @@
+oj: BOJ
+id: "20188"
+title: "등산 마니아"
+matches:
+  - oj: Jungol
+    id: "4602"
+    relation: same
+  - oj: Codeup
+    id: "4938"
+    relation: same

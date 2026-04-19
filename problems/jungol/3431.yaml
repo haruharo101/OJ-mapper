@@ -1,0 +1,7 @@
+oj: Jungol
+id: "3431"
+title: "개구리 점프(frogjump)"
+matches:
+  - oj: BOJ
+    id: "17619"
+    relation: same

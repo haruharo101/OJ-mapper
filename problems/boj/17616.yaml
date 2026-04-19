@@ -1,0 +1,10 @@
+oj: BOJ
+id: "17616"
+title: "등수 찾기(ranking)"
+matches:
+  - oj: Jungol
+    id: "3428"
+    relation: same
+  - oj: Codeup
+    id: "4919"
+    relation: same

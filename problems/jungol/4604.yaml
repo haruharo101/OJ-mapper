@@ -1,0 +1,10 @@
+oj: Jungol
+id: "4604"
+title: "버블버블"
+matches:
+  - oj: BOJ
+    id: "20190"
+    relation: same
+  - oj: Codeup
+    id: "4940"
+    relation: same

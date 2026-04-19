@@ -1,0 +1,10 @@
+oj: Jungol
+id: "4520"
+title: "햄버거 분배"
+matches:
+  - oj: BOJ
+    id: "19941"
+    relation: same
+  - oj: Codeup
+    id: "4933"
+    relation: same

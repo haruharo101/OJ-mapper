@@ -1,0 +1,10 @@
+oj: Codeup
+id: "5283"
+title: "공통 괄호 문자열 사전"
+matches:
+  - oj: Jungol
+    id: "4805"
+    relation: same
+  - oj: BOJ
+    id: "22347"
+    relation: same

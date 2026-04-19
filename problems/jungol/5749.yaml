@@ -1,0 +1,10 @@
+oj: Jungol
+id: "5749"
+title: "스케이트 연습"
+matches:
+  - oj: BOJ
+    id: "28324"
+    relation: same
+  - oj: Codeup
+    id: "5309"
+    relation: same

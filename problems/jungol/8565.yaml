@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8565"
+title: "먼 카드"
+matches:
+  - oj: BOJ
+    id: "34115"
+    relation: same

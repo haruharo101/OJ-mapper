@@ -1,0 +1,7 @@
+oj: Jungol
+id: "3436"
+title: "검은 돌(stones)"
+matches:
+  - oj: BOJ
+    id: "17624"
+    relation: same

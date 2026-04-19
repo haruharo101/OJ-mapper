@@ -1,0 +1,10 @@
+oj: Codeup
+id: "5311"
+title: "고기 파티"
+matches:
+  - oj: Jungol
+    id: "5755"
+    relation: same
+  - oj: BOJ
+    id: "28326"
+    relation: same

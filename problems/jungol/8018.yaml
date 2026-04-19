@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8018"
+title: "XOR 최대"
+matches:
+  - oj: BOJ
+    id: "32073"
+    relation: same

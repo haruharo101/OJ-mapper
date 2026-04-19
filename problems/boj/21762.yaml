@@ -1,0 +1,10 @@
+oj: BOJ
+id: "21762"
+title: "공통 부분 수열 확장"
+matches:
+  - oj: Jungol
+    id: "4730"
+    relation: same
+  - oj: Codeup
+    id: "5276"
+    relation: same

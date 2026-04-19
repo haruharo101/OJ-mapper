@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8608"
+title: "가방"
+matches:
+  - oj: BOJ
+    id: "34204"
+    relation: same

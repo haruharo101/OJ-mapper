@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8017"
+title: "가로등"
+matches:
+  - oj: BOJ
+    id: "32069"
+    relation: same

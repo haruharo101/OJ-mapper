@@ -1,0 +1,10 @@
+oj: BOJ
+id: "15978"
+title: "족보"
+matches:
+  - oj: Jungol
+    id: "3237"
+    relation: same
+  - oj: Codeup
+    id: "4904"
+    relation: same

@@ -1,0 +1,7 @@
+oj: BOJ
+id: "34117"
+title: "허수아비"
+matches:
+  - oj: Jungol
+    id: "8566"
+    relation: same

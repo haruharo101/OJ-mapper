@@ -1,0 +1,10 @@
+oj: BOJ
+id: "28215"
+title: "대피소"
+matches:
+  - oj: Jungol
+    id: "5648"
+    relation: same
+  - oj: Codeup
+    id: "5302"
+    relation: same

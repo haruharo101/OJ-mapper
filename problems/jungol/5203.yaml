@@ -1,0 +1,10 @@
+oj: Jungol
+id: "5203"
+title: "식사 계획 세우기"
+matches:
+  - oj: BOJ
+    id: "25406"
+    relation: same
+  - oj: Codeup
+    id: "5299"
+    relation: same

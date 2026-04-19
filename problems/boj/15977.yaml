@@ -1,0 +1,10 @@
+oj: BOJ
+id: "15977"
+title: "조화로운 행렬"
+matches:
+  - oj: Jungol
+    id: "3236"
+    relation: same
+  - oj: Codeup
+    id: "4903"
+    relation: same

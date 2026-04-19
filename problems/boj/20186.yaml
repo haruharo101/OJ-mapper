@@ -1,0 +1,10 @@
+oj: BOJ
+id: "20186"
+title: "수 고르기"
+matches:
+  - oj: Jungol
+    id: "4600"
+    relation: same
+  - oj: Codeup
+    id: "4936"
+    relation: same

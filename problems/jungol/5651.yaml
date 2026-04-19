@@ -1,0 +1,10 @@
+oj: Jungol
+id: "5651"
+title: "격자 게임"
+matches:
+  - oj: BOJ
+    id: "28218"
+    relation: same
+  - oj: Codeup
+    id: "5305"
+    relation: same

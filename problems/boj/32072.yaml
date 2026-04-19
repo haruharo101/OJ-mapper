@@ -1,0 +1,7 @@
+oj: BOJ
+id: "32072"
+title: "트리 뽑아내기"
+matches:
+  - oj: Jungol
+    id: "8019"
+    relation: same

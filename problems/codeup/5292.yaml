@@ -1,0 +1,10 @@
+oj: Codeup
+id: "5292"
+title: "보급"
+matches:
+  - oj: Jungol
+    id: "5124"
+    relation: same
+  - oj: BOJ
+    id: "25381"
+    relation: same

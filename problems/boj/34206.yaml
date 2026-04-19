@@ -1,0 +1,7 @@
+oj: BOJ
+id: "34206"
+title: "로봇"
+matches:
+  - oj: Jungol
+    id: "8609"
+    relation: same

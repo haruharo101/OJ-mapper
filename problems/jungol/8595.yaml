@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8595"
+title: "점프"
+matches:
+  - oj: BOJ
+    id: "34202"
+    relation: same

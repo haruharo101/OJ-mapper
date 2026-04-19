@@ -1,0 +1,10 @@
+oj: BOJ
+id: "20187"
+title: "종이접기"
+matches:
+  - oj: Jungol
+    id: "4601"
+    relation: same
+  - oj: Codeup
+    id: "4937"
+    relation: same

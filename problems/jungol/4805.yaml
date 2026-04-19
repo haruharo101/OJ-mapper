@@ -1,0 +1,10 @@
+oj: Jungol
+id: "4805"
+title: "공통 괄호 문자열 사전"
+matches:
+  - oj: BOJ
+    id: "22347"
+    relation: same
+  - oj: Codeup
+    id: "5283"
+    relation: same

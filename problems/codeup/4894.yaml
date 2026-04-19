@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4894"
+title: "물탱크"
+matches:
+  - oj: Jungol
+    id: "3231"
+    relation: same
+  - oj: BOJ
+    id: "15972"
+    relation: same

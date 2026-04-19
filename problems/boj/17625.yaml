@@ -1,0 +1,7 @@
+oj: BOJ
+id: "17625"
+title: "고압선(powerline)"
+matches:
+  - oj: Jungol
+    id: "3437"
+    relation: same

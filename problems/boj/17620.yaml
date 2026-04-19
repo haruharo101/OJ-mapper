@@ -1,0 +1,7 @@
+oj: BOJ
+id: "17620"
+title: "드론(drone)"
+matches:
+  - oj: Jungol
+    id: "3432"
+    relation: same

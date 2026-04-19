@@ -1,0 +1,10 @@
+oj: BOJ
+id: "17610"
+title: "양팔 저울"
+matches:
+  - oj: Jungol
+    id: "3335"
+    relation: same
+  - oj: Codeup
+    id: "4913"
+    relation: same

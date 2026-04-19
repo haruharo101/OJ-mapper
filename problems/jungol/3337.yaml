@@ -1,0 +1,10 @@
+oj: Jungol
+id: "3337"
+title: "쇼핑몰"
+matches:
+  - oj: BOJ
+    id: "17612"
+    relation: same
+  - oj: Codeup
+    id: "4915"
+    relation: same

@@ -1,0 +1,7 @@
+oj: Jungol
+id: "5125"
+title: "피하자"
+matches:
+  - oj: BOJ
+    id: "25379"
+    relation: same

@@ -1,0 +1,10 @@
+oj: BOJ
+id: "21759"
+title: "두 개의 팀"
+matches:
+  - oj: Jungol
+    id: "4727"
+    relation: same
+  - oj: Codeup
+    id: "5273"
+    relation: same

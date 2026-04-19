@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4942"
+title: "줄임말"
+matches:
+  - oj: Jungol
+    id: "4606"
+    relation: same
+  - oj: BOJ
+    id: "20191"
+    relation: same

@@ -1,0 +1,7 @@
+oj: Jungol
+id: "7017"
+title: "두 배"
+matches:
+  - oj: BOJ
+    id: "31963"
+    relation: same

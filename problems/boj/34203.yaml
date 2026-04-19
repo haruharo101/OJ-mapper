@@ -1,0 +1,7 @@
+oj: BOJ
+id: "34203"
+title: "통행료"
+matches:
+  - oj: Jungol
+    id: "8606"
+    relation: same

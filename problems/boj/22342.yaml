@@ -1,0 +1,10 @@
+oj: BOJ
+id: "22342"
+title: "계산 로봇"
+matches:
+  - oj: Jungol
+    id: "4797"
+    relation: same
+  - oj: Codeup
+    id: "5278"
+    relation: same

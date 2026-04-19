@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4892"
+title: "화살표(초)"
+matches:
+  - oj: Jungol
+    id: "3229"
+    relation: same
+  - oj: BOJ
+    id: "15970"
+    relation: same

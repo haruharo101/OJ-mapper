@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4921"
+title: "신기한 수(amazingno)"
+matches:
+  - oj: Jungol
+    id: "3430"
+    relation: same
+  - oj: BOJ
+    id: "17618"
+    relation: same

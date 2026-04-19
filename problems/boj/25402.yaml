@@ -1,0 +1,10 @@
+oj: BOJ
+id: "25402"
+title: "트리와 쿼리"
+matches:
+  - oj: Jungol
+    id: "5198"
+    relation: same
+  - oj: Codeup
+    id: "5295"
+    relation: same

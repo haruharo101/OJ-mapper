@@ -1,0 +1,10 @@
+oj: BOJ
+id: "22343"
+title: "괄호의 값 비교"
+matches:
+  - oj: Jungol
+    id: "4798"
+    relation: same
+  - oj: Codeup
+    id: "5279"
+    relation: same

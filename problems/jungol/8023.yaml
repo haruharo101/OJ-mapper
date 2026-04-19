@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8023"
+title: "색깔 모으기"
+matches:
+  - oj: BOJ
+    id: "32070"
+    relation: same

@@ -1,0 +1,7 @@
+oj: Jungol
+id: "7020"
+title: "오름차순"
+matches:
+  - oj: BOJ
+    id: "31967"
+    relation: same

@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4934"
+title: "다이어트"
+matches:
+  - oj: Jungol
+    id: "4521"
+    relation: same
+  - oj: BOJ
+    id: "19942"
+    relation: same

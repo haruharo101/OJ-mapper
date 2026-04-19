@@ -1,0 +1,10 @@
+oj: Codeup
+id: "5270"
+title: "지우개"
+matches:
+  - oj: Jungol
+    id: "4724"
+    relation: same
+  - oj: BOJ
+    id: "21756"
+    relation: same

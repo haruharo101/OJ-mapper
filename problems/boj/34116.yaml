@@ -1,0 +1,7 @@
+oj: BOJ
+id: "34116"
+title: "직각이등변삼각형"
+matches:
+  - oj: Jungol
+    id: "8567"
+    relation: same

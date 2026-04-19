@@ -1,0 +1,10 @@
+oj: BOJ
+id: "15969"
+title: "행복"
+matches:
+  - oj: Jungol
+    id: "3228"
+    relation: same
+  - oj: Codeup
+    id: "4891"
+    relation: same

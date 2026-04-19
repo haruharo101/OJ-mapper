@@ -1,0 +1,7 @@
+oj: BOJ
+id: "34201"
+title: "거울"
+matches:
+  - oj: Jungol
+    id: "8605"
+    relation: same

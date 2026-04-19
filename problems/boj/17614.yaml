@@ -1,0 +1,10 @@
+oj: BOJ
+id: "17614"
+title: "369(tsn)"
+matches:
+  - oj: Jungol
+    id: "3426"
+    relation: same
+  - oj: Codeup
+    id: "4917"
+    relation: same

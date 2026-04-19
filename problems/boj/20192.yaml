@@ -1,0 +1,10 @@
+oj: BOJ
+id: "20192"
+title: "순서 섞기"
+matches:
+  - oj: Jungol
+    id: "4607"
+    relation: same
+  - oj: Codeup
+    id: "4943"
+    relation: same

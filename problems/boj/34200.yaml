@@ -1,0 +1,7 @@
+oj: BOJ
+id: "34200"
+title: "장애물"
+matches:
+  - oj: Jungol
+    id: "8604"
+    relation: same

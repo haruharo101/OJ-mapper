@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4918"
+title: "볼 모으기(balls)"
+matches:
+  - oj: Jungol
+    id: "3427"
+    relation: same
+  - oj: BOJ
+    id: "17615"
+    relation: same

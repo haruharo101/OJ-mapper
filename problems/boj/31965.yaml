@@ -1,0 +1,7 @@
+oj: BOJ
+id: "31965"
+title: "회의 장소"
+matches:
+  - oj: Jungol
+    id: "7018"
+    relation: same

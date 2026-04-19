@@ -1,0 +1,10 @@
+oj: BOJ
+id: "19943"
+title: "조명등"
+matches:
+  - oj: Jungol
+    id: "4522"
+    relation: same
+  - oj: Codeup
+    id: "4935"
+    relation: same

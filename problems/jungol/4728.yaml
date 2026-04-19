@@ -1,0 +1,10 @@
+oj: Jungol
+id: "4728"
+title: "야구 시즌"
+matches:
+  - oj: BOJ
+    id: "21760"
+    relation: same
+  - oj: Codeup
+    id: "5274"
+    relation: same

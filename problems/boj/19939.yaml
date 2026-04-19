@@ -1,0 +1,10 @@
+oj: BOJ
+id: "19939"
+title: "박 터트리기"
+matches:
+  - oj: Jungol
+    id: "4518"
+    relation: same
+  - oj: Codeup
+    id: "4931"
+    relation: same

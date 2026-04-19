@@ -1,0 +1,7 @@
+oj: BOJ
+id: "31966"
+title: "이진 트리"
+matches:
+  - oj: Jungol
+    id: "7019"
+    relation: same

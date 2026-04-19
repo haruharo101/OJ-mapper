@@ -1,0 +1,10 @@
+oj: Codeup
+id: "5271"
+title: "나누기"
+matches:
+  - oj: Jungol
+    id: "4725"
+    relation: same
+  - oj: BOJ
+    id: "21757"
+    relation: same

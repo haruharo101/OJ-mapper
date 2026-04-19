@@ -1,0 +1,10 @@
+oj: Jungol
+id: "3333"
+title: "막대기"
+matches:
+  - oj: BOJ
+    id: "17608"
+    relation: same
+  - oj: Codeup
+    id: "4911"
+    relation: same

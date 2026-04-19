@@ -1,0 +1,10 @@
+oj: Jungol
+id: "5122"
+title: "조약돌"
+matches:
+  - oj: BOJ
+    id: "25378"
+    relation: same
+  - oj: Codeup
+    id: "5288"
+    relation: same

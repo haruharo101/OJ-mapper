@@ -1,0 +1,10 @@
+oj: BOJ
+id: "25401"
+title: "카드 바꾸기"
+matches:
+  - oj: Jungol
+    id: "5196"
+    relation: same
+  - oj: Codeup
+    id: "5294"
+    relation: same

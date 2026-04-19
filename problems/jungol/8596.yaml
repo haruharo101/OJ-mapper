@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8596"
+title: "새로운 인연"
+matches:
+  - oj: BOJ
+    id: "34205"
+    relation: same

@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8607"
+title: "상자 보관"
+matches:
+  - oj: BOJ
+    id: "34207"
+    relation: same

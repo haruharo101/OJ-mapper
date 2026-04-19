@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8571"
+title: "택배 운송"
+matches:
+  - oj: BOJ
+    id: "34121"
+    relation: same

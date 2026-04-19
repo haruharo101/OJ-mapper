@@ -1,0 +1,10 @@
+oj: Jungol
+id: "5754"
+title: "호숫가의 개미굴"
+matches:
+  - oj: BOJ
+    id: "28325"
+    relation: same
+  - oj: Codeup
+    id: "5310"
+    relation: same

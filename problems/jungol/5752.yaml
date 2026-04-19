@@ -1,0 +1,10 @@
+oj: Jungol
+id: "5752"
+title: "바보 자물쇠"
+matches:
+  - oj: BOJ
+    id: "28329"
+    relation: same
+  - oj: Codeup
+    id: "5314"
+    relation: same

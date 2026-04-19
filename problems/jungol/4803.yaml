@@ -1,0 +1,10 @@
+oj: Jungol
+id: "4803"
+title: "누적 거리"
+matches:
+  - oj: BOJ
+    id: "22345"
+    relation: same
+  - oj: Codeup
+    id: "5281"
+    relation: same

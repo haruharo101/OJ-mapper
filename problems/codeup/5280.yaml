@@ -1,0 +1,10 @@
+oj: Codeup
+id: "5280"
+title: "그래프 균형 맞추기"
+matches:
+  - oj: Jungol
+    id: "4799"
+    relation: same
+  - oj: BOJ
+    id: "22344"
+    relation: same

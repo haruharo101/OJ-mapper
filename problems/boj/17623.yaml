@@ -1,0 +1,7 @@
+oj: BOJ
+id: "17623"
+title: "괄호(bracket)"
+matches:
+  - oj: Jungol
+    id: "3435"
+    relation: same

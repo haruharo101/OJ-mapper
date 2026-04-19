@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4941"
+title: "화려한 정사각형"
+matches:
+  - oj: Jungol
+    id: "4605"
+    relation: same
+  - oj: BOJ
+    id: "20193"
+    relation: same

@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4912"
+title: "회문"
+matches:
+  - oj: Jungol
+    id: "3334"
+    relation: same
+  - oj: BOJ
+    id: "17609"
+    relation: same

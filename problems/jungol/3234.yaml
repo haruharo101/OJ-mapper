@@ -1,0 +1,10 @@
+oj: Jungol
+id: "3234"
+title: "화살표(고)"
+matches:
+  - oj: BOJ
+    id: "15975"
+    relation: same
+  - oj: Codeup
+    id: "4901"
+    relation: same

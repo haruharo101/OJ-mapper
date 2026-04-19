@@ -1,0 +1,10 @@
+oj: Jungol
+id: "4729"
+title: "초직사각형"
+matches:
+  - oj: BOJ
+    id: "21761"
+    relation: same
+  - oj: Codeup
+    id: "5275"
+    relation: same

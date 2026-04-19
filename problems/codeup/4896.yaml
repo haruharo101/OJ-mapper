@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4896"
+title: "두 박스"
+matches:
+  - oj: Jungol
+    id: "3232"
+    relation: same
+  - oj: BOJ
+    id: "15973"
+    relation: same

@@ -1,0 +1,10 @@
+oj: BOJ
+id: "28220"
+title: "블록 쌓기"
+matches:
+  - oj: Jungol
+    id: "5653"
+    relation: same
+  - oj: Codeup
+    id: "5307"
+    relation: same

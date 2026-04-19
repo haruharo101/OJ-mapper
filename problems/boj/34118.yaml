@@ -1,0 +1,7 @@
+oj: BOJ
+id: "34118"
+title: "부산 관광"
+matches:
+  - oj: Jungol
+    id: "8568"
+    relation: same

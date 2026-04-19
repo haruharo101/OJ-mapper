@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4893"
+title: "두 로봇"
+matches:
+  - oj: Jungol
+    id: "3230"
+    relation: same
+  - oj: BOJ
+    id: "15971"
+    relation: same

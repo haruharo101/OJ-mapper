@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8020"
+title: "점수 경주"
+matches:
+  - oj: BOJ
+    id: "32074"
+    relation: same

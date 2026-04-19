@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4932"
+title: "피자 오븐"
+matches:
+  - oj: Jungol
+    id: "4519"
+    relation: same
+  - oj: BOJ
+    id: "19940"
+    relation: same

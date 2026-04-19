@@ -1,0 +1,10 @@
+oj: BOJ
+id: "25400"
+title: "제자리"
+matches:
+  - oj: Jungol
+    id: "5195"
+    relation: same
+  - oj: Codeup
+    id: "5293"
+    relation: same

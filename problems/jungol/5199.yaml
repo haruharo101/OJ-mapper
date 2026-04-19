@@ -1,0 +1,10 @@
+oj: Jungol
+id: "5199"
+title: "빨강파랑"
+matches:
+  - oj: BOJ
+    id: "25403"
+    relation: same
+  - oj: Codeup
+    id: "5296"
+    relation: same

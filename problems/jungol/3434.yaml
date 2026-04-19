@@ -1,0 +1,7 @@
+oj: Jungol
+id: "3434"
+title: "타일교체(tile)"
+matches:
+  - oj: BOJ
+    id: "17622"
+    relation: same

@@ -1,0 +1,7 @@
+oj: BOJ
+id: "32068"
+title: "보물 찾기"
+matches:
+  - oj: Jungol
+    id: "8022"
+    relation: same

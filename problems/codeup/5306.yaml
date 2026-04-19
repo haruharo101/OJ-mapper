@@ -1,0 +1,10 @@
+oj: Codeup
+id: "5306"
+title: "주유소"
+matches:
+  - oj: Jungol
+    id: "5652"
+    relation: same
+  - oj: BOJ
+    id: "28219"
+    relation: same

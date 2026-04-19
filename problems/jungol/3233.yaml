@@ -1,0 +1,10 @@
+oj: Jungol
+id: "3233"
+title: "공룡발자국"
+matches:
+  - oj: BOJ
+    id: "15974"
+    relation: same
+  - oj: Codeup
+    id: "4899"
+    relation: same

@@ -1,0 +1,10 @@
+oj: BOJ
+id: "28328"
+title: "잔디밭의 개미굴"
+matches:
+  - oj: Jungol
+    id: "5751"
+    relation: same
+  - oj: Codeup
+    id: "5313"
+    relation: same

@@ -1,0 +1,10 @@
+oj: Jungol
+id: "5650"
+title: "두 정삼각형"
+matches:
+  - oj: BOJ
+    id: "28217"
+    relation: same
+  - oj: Codeup
+    id: "5304"
+    relation: same

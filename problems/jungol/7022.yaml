@@ -1,0 +1,7 @@
+oj: Jungol
+id: "7022"
+title: "반품 회수"
+matches:
+  - oj: BOJ
+    id: "31964"
+    relation: same

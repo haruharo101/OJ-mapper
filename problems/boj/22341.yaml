@@ -1,0 +1,10 @@
+oj: BOJ
+id: "22341"
+title: "사각형 면적"
+matches:
+  - oj: Jungol
+    id: "4796"
+    relation: same
+  - oj: Codeup
+    id: "5277"
+    relation: same

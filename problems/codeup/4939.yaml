@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4939"
+title: "사탕 돌리기"
+matches:
+  - oj: Jungol
+    id: "4603"
+    relation: same
+  - oj: BOJ
+    id: "20189"
+    relation: same

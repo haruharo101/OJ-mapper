@@ -1,0 +1,10 @@
+oj: BOJ
+id: "17611"
+title: "직각다각형"
+matches:
+  - oj: Jungol
+    id: "3336"
+    relation: same
+  - oj: Codeup
+    id: "4914"
+    relation: same

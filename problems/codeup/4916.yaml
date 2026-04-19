@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4916"
+title: "점프"
+matches:
+  - oj: Jungol
+    id: "3338"
+    relation: same
+  - oj: BOJ
+    id: "17613"
+    relation: same

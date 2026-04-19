@@ -1,0 +1,10 @@
+oj: Codeup
+id: "5312"
+title: "지그재그"
+matches:
+  - oj: Jungol
+    id: "5750"
+    relation: same
+  - oj: BOJ
+    id: "28327"
+    relation: same

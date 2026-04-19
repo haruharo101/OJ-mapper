@@ -1,0 +1,10 @@
+oj: Codeup
+id: "5303"
+title: "아이템 획득"
+matches:
+  - oj: Jungol
+    id: "5649"
+    relation: same
+  - oj: BOJ
+    id: "28216"
+    relation: same

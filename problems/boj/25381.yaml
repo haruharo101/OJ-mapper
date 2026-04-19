@@ -1,0 +1,16 @@
+oj: BOJ
+id: "25381"
+title: "ABBC"
+matches:
+  - oj: Jungol
+    id: "5123"
+    relation: same
+  - oj: Jungol
+    id: "5124"
+    relation: same
+  - oj: Codeup
+    id: "5291"
+    relation: same
+  - oj: Codeup
+    id: "5292"
+    relation: same

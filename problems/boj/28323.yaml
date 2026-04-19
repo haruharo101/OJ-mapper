@@ -1,0 +1,10 @@
+oj: BOJ
+id: "28323"
+title: "불안정한 수열"
+matches:
+  - oj: Jungol
+    id: "5753"
+    relation: same
+  - oj: Codeup
+    id: "5308"
+    relation: same

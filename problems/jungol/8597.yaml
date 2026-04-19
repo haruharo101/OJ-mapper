@@ -1,0 +1,7 @@
+oj: Jungol
+id: "8597"
+title: "수열과 쿼리"
+matches:
+  - oj: BOJ
+    id: "34208"
+    relation: same

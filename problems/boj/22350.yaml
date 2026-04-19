@@ -1,0 +1,10 @@
+oj: BOJ
+id: "22350"
+title: "맛집 추천"
+matches:
+  - oj: Jungol
+    id: "4808"
+    relation: same
+  - oj: Codeup
+    id: "5286"
+    relation: same

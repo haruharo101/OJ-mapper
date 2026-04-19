@@ -1,0 +1,10 @@
+oj: Jungol
+id: "5121"
+title: "빵"
+matches:
+  - oj: BOJ
+    id: "25377"
+    relation: same
+  - oj: Codeup
+    id: "5287"
+    relation: same

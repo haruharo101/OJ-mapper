@@ -1,0 +1,10 @@
+oj: BOJ
+id: "25407"
+title: "외곽 순환 도로"
+matches:
+  - oj: Jungol
+    id: "5204"
+    relation: same
+  - oj: Codeup
+    id: "5300"
+    relation: same

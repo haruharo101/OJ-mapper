@@ -1,0 +1,10 @@
+oj: BOJ
+id: "22346"
+title: "일이 이어져야 좋다"
+matches:
+  - oj: Jungol
+    id: "4804"
+    relation: same
+  - oj: Codeup
+    id: "5282"
+    relation: same
