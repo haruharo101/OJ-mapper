@@ -1,0 +1,13 @@
+oj: Jungol
+id: "3000"
+title: "트리(고등)"
+matches:
+  - oj: Codeup
+    id: "4873"
+    relation: same
+  - oj: Codeup
+    id: "4868"
+    relation: similar
+  - oj: Jungol
+    id: "2997"
+    relation: similar

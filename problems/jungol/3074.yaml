@@ -1,0 +1,10 @@
+oj: Jungol
+id: "3074"
+title: "서울에서 경산까지"
+matches:
+  - oj: Codeup
+    id: "4878"
+    relation: same
+  - oj: Codeup
+    id: "4880"
+    relation: similar

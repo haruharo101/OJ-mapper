@@ -1,0 +1,7 @@
+oj: Jungol
+id: "3072"
+title: "딱지놀이"
+matches:
+  - oj: Codeup
+    id: "4876"
+    relation: same

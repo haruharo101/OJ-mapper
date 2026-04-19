@@ -1,0 +1,13 @@
+oj: Jungol
+id: "2996"
+title: "주유소(중등)"
+matches:
+  - oj: Codeup
+    id: "4867"
+    relation: same
+  - oj: Codeup
+    id: "4872"
+    relation: similar
+  - oj: Jungol
+    id: "2999"
+    relation: similar

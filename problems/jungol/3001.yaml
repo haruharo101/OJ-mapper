@@ -1,0 +1,7 @@
+oj: Jungol
+id: "3001"
+title: "먼 별"
+matches:
+  - oj: Codeup
+    id: "4874"
+    relation: same

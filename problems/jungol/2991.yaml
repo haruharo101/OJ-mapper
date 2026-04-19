@@ -1,0 +1,13 @@
+oj: Jungol
+id: "2991"
+title: "방 배정(초등)"
+matches:
+  - oj: Codeup
+    id: "4861"
+    relation: same
+  - oj: Codeup
+    id: "4866"
+    relation: similar
+  - oj: Jungol
+    id: "2995"
+    relation: similar

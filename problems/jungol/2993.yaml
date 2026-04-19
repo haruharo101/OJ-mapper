@@ -1,0 +1,7 @@
+oj: Jungol
+id: "2993"
+title: "리조트(초등/고등)"
+matches:
+  - oj: Codeup
+    id: "4863"
+    relation: same

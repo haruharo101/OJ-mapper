@@ -1,0 +1,10 @@
+oj: Jungol
+id: "3078"
+title: "물통"
+matches:
+  - oj: Codeup
+    id: "4886"
+    relation: same
+  - oj: Codeup
+    id: "4885"
+    relation: similar

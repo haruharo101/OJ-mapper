@@ -1,0 +1,13 @@
+oj: Jungol
+id: "2995"
+title: "방 배정(중등)"
+matches:
+  - oj: Codeup
+    id: "4866"
+    relation: same
+  - oj: Codeup
+    id: "4861"
+    relation: similar
+  - oj: Jungol
+    id: "2991"
+    relation: similar

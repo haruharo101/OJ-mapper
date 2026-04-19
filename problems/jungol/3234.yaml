@@ -8,3 +8,6 @@ matches:
   - oj: Codeup
     id: "4901"
     relation: same
+  - oj: Jungol
+    id: "3229"
+    relation: same
