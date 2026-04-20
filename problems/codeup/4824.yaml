@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4824"
+title: "금광"
+matches:
+  - oj: BOJ
+    id: "10167"
+    relation: same
+  - oj: Jungol
+    id: "2798"
+    relation: same

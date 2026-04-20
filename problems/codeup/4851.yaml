@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4851"
+title: "동전 게임"
+matches:
+  - oj: BOJ
+    id: "10837"
+    relation: same
+  - oj: Jungol
+    id: "2915"
+    relation: same

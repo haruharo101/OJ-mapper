@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2796"
+title: "버스 노선"
+matches:
+  - oj: Codeup
+    id: "4819"
+    relation: same
+  - oj: BOJ
+    id: "10165"
+    relation: same

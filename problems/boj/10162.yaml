@@ -1,0 +1,10 @@
+oj: BOJ
+id: "10162"
+title: "전자레인지"
+matches:
+  - oj: Jungol
+    id: "2793"
+    relation: same
+  - oj: Codeup
+    id: "4816"
+    relation: same

@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2916"
+title: "트리"
+matches:
+  - oj: Codeup
+    id: "4853"
+    relation: same
+  - oj: BOJ
+    id: "10838"
+    relation: same

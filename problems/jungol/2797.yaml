@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2797"
+title: "관중석"
+matches:
+  - oj: Codeup
+    id: "4823"
+    relation: same
+  - oj: BOJ
+    id: "10166"
+    relation: same

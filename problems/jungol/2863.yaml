@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2863"
+title: "카드 역배치"
+matches:
+  - oj: Codeup
+    id: "4841"
+    relation: same
+  - oj: BOJ
+    id: "10804"
+    relation: same

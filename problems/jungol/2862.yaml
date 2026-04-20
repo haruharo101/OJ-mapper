@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2862"
+title: "정사각형 만들기"
+matches:
+  - oj: Codeup
+    id: "4838"
+    relation: same
+  - oj: BOJ
+    id: "10803"
+    relation: same

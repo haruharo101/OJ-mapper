@@ -1,0 +1,19 @@
+oj: Codeup
+id: "4849"
+title: "여왕벌"
+matches:
+  - oj: BOJ
+    id: "10836"
+    relation: same
+  - oj: Jungol
+    id: "2914"
+    relation: same
+  - oj: BOJ
+    id: "10842"
+    relation: similar
+  - oj: Jungol
+    id: "2920"
+    relation: similar
+  - oj: Codeup
+    id: "4859"
+    relation: similar

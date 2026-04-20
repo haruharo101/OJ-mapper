@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2799"
+title: "파발마"
+matches:
+  - oj: Codeup
+    id: "4828"
+    relation: same
+  - oj: BOJ
+    id: "10168"
+    relation: same

@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4846"
+title: "사과"
+matches:
+  - oj: BOJ
+    id: "10833"
+    relation: same
+  - oj: Jungol
+    id: "2911"
+    relation: same

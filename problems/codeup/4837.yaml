@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4837"
+title: "369 게임"
+matches:
+  - oj: BOJ
+    id: "10802"
+    relation: same
+  - oj: Jungol
+    id: "2861"
+    relation: same

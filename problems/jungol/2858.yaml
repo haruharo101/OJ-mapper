@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2858"
+title: "쇠막대기"
+matches:
+  - oj: Codeup
+    id: "4833"
+    relation: same
+  - oj: BOJ
+    id: "10799"
+    relation: same

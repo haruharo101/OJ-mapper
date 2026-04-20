@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2913"
+title: "카드게임"
+matches:
+  - oj: Codeup
+    id: "4848"
+    relation: same
+  - oj: BOJ
+    id: "10835"
+    relation: same

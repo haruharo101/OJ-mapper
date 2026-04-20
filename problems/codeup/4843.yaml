@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4843"
+title: "공중도시"
+matches:
+  - oj: BOJ
+    id: "10806"
+    relation: same
+  - oj: Jungol
+    id: "2865"
+    relation: same

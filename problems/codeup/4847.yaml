@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4847"
+title: "벨트"
+matches:
+  - oj: BOJ
+    id: "10834"
+    relation: same
+  - oj: Jungol
+    id: "2912"
+    relation: same

@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2795"
+title: "격자상의 경로"
+matches:
+  - oj: Codeup
+    id: "4818"
+    relation: same
+  - oj: BOJ
+    id: "10164"
+    relation: same

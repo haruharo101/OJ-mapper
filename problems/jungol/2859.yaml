@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2859"
+title: "컬러볼"
+matches:
+  - oj: Codeup
+    id: "4834"
+    relation: same
+  - oj: BOJ
+    id: "10800"
+    relation: same

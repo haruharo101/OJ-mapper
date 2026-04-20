@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2800"
+title: "안전한 비상연락망"
+matches:
+  - oj: Codeup
+    id: "4829"
+    relation: same
+  - oj: BOJ
+    id: "10169"
+    relation: same

@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2864"
+title: "L 모양의 종이 자르기"
+matches:
+  - oj: Codeup
+    id: "4842"
+    relation: same
+  - oj: BOJ
+    id: "10805"
+    relation: same

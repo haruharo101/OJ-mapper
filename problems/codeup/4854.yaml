@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4854"
+title: "미술관"
+matches:
+  - oj: BOJ
+    id: "10839"
+    relation: same
+  - oj: Jungol
+    id: "2917"
+    relation: same

@@ -1,0 +1,10 @@
+oj: BOJ
+id: "10797"
+title: "10부제"
+matches:
+  - oj: Jungol
+    id: "2856"
+    relation: same
+  - oj: Codeup
+    id: "4831"
+    relation: same

@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2794"
+title: "색종이"
+matches:
+  - oj: Codeup
+    id: "4817"
+    relation: same
+  - oj: BOJ
+    id: "10163"
+    relation: same

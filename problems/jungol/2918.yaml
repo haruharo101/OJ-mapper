@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2918"
+title: "구간 성분"
+matches:
+  - oj: Codeup
+    id: "4857"
+    relation: same
+  - oj: BOJ
+    id: "10840"
+    relation: same

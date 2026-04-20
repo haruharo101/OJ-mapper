@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2917"
+title: "미술관"
+matches:
+  - oj: Codeup
+    id: "4854"
+    relation: same
+  - oj: BOJ
+    id: "10839"
+    relation: same

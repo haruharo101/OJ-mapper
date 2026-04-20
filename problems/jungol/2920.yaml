@@ -1,0 +1,10 @@
+oj: Jungol
+id: "2920"
+title: "여왕벌(고)"
+matches:
+  - oj: Codeup
+    id: "4859"
+    relation: same
+  - oj: BOJ
+    id: "10842"
+    relation: same

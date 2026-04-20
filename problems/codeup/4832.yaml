@@ -1,0 +1,10 @@
+oj: Codeup
+id: "4832"
+title: "세로읽기"
+matches:
+  - oj: BOJ
+    id: "10798"
+    relation: same
+  - oj: Jungol
+    id: "2857"
+    relation: same
